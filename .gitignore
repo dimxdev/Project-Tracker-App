@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Dokumen perencanaan internal (tidak perlu di-publish ke repo)
+plan.md
+project-spec.md
